@@ -1,0 +1,10 @@
+﻿  TDI.cpp
+C:\Users\karat\Downloads\practicaTDI\Source\TDI.cpp(5,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\karat\Downloads\practicaTDI\Source\TDI.cpp(6,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\karat\Downloads\practicaTDI\Source\TDI.cpp(51,46): warning C4244: '=': conversión de 'double' a 'C_Matrix::IndexT'; posible pérdida de datos
+C:\Users\karat\Downloads\practicaTDI\Source\TDI.cpp(52,47): warning C4244: '=': conversión de 'double' a 'C_Matrix::IndexT'; posible pérdida de datos
+C:\Users\karat\Downloads\practicaTDI\Source\TDI.cpp(55,47): warning C4244: '=': conversión de 'double' a 'C_Matrix::IndexT'; posible pérdida de datos
+C:\Users\karat\Downloads\practicaTDI\Source\TDI.cpp(56,46): warning C4244: '=': conversión de 'double' a 'C_Matrix::IndexT'; posible pérdida de datos
+C:\Users\karat\Downloads\practicaTDI\Source\TDI.cpp(106,13): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\karat\Downloads\practicaTDI\Source\TDI.cpp(107,13): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  TDI.vcxproj -> C:\Users\karat\Downloads\practicaTDI\Debug\TDI.exe
